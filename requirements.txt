@@ -1,0 +1,4 @@
+# Add the libraries your solution needs, e.g.:
+# openai
+# sentence-transformers
+# tiktoken

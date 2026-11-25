@@ -10,7 +10,7 @@ docs/             # documents to ingest (add or swap in your own)
 requirements.txt  # candidate adds dependencies here
 ```
 
-## The task (give this to the candidate)
+## The task
 
 Open `screen.py` and implement the `TODO(candidate)` functions:
 
